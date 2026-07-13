@@ -197,6 +197,7 @@ ul {
   height: auto;
   margin-bottom: 24px;
   display: block;
+  border-radius: 12px;
 }
 
 .hero-tagline {
