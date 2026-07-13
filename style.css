@@ -191,12 +191,11 @@ ul {
 }
 
 .hero-logo-img {
-  max-width: 600px;
+  max-width: 180px;
   width: 100%;
   height: auto;
   margin-bottom: 24px;
   display: block;
-  margin-left: -18px; /* Align with left edge of text by offsetting SVG whitespace */
 }
 
 .hero-tagline {
